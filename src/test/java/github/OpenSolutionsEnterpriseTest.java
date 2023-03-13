@@ -10,7 +10,7 @@ import static com.codeborne.selenide.Selenide.*;
 public class OpenSolutionsEnterpriseTest {
 
     @Test
-    void solutionsEnterpriseHover () {
+    void solutionsEnterpriseHoverTest() {
 
         //На главной странице GitHub
         open("https://github.com");
